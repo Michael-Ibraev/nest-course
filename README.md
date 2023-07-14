@@ -45,6 +45,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Docker
+
+Change "POSTGRES_HOST" to "postgres" for docker-compose build, up
+
 ## Test
 
 ```bash
